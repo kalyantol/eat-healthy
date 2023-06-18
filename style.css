@@ -134,3 +134,26 @@ h1{
     text-align: center;
     margin: 0;
 }
+.bottom-sec{
+    background-color: black;
+    margin: 0px;
+    height: 200px;
+    padding: 10px;
+    
+}
+body{
+    margin: 0;
+}
+#eat-span{
+    color: orange;
+}
+.bottom-sec h1{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(180, 172, 172);
+    margin-left: 0;
+}
+.bottom-sec p{
+    color: white;
+    text-align: center;
+}
